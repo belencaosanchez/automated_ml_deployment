@@ -1,0 +1,14 @@
+Flask
+scikit-learn==1.4.0
+numpy
+pandas
+matplotlib
+seaborn
+memory-profiler
+requests
+jinja2
+joblib
+geopy
+tqdm
+folium
+imgkit
